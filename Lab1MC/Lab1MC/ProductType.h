@@ -2,7 +2,7 @@
 #include <cstdint>
 enum class ProductType : uint8_t
 {
-	PersonalHygiene, 
-	SmallAppliences, 
+	PersonalHygiene,
+	SmallAppliences,
 	Clothing
-};
+}; 
